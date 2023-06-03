@@ -1,0 +1,27 @@
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Solutions\Task1\Task1\bin\Debug\Task1.exe.config
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Solutions\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Solutions\Task1\Task1\bin\Debug\Task1.exe
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Solutions\Task1\Task1\bin\Debug\Task1.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Solutions\Task1\Task1\obj\Debug\Task1.exe
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Solutions\Task1\Task1\obj\Debug\Task1.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Template Files\Task1\Task1\bin\Debug\Task1.exe.config
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Template Files\Task1\Task1\obj\Debug\Task1.exe
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Template Files\Task1\Task1\obj\Debug\Task1.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Template Files\Task1\Task1\bin\Debug\Task1.exe
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Template Files\Task1\Task1\bin\Debug\Task1.pdb
+C:\MyData\Courses\WRA2\2018\WRA(V)202\Contact Sessions\Week 07 - 27 August 2018 (Trees)\Template Files\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRA2\2019\WRA(V)202 2019\Contact Sessions\Week 07 - 2 September 2019 (Trees)\Template Files\Task1\Task1\bin\Debug\Task1.exe.config
+C:\MyData\Courses\WRA2\2019\WRA(V)202 2019\Contact Sessions\Week 07 - 2 September 2019 (Trees)\Template Files\Task1\Task1\obj\Debug\Task1.exe
+C:\MyData\Courses\WRA2\2019\WRA(V)202 2019\Contact Sessions\Week 07 - 2 September 2019 (Trees)\Template Files\Task1\Task1\obj\Debug\Task1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 5 - 9 November 2020 (Trees)\DigiLT\Practical Template Files\Task1\Task1\bin\Debug\Task1.exe.config
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 5 - 9 November 2020 (Trees)\DigiLT\Practical Template Files\Task1\Task1\obj\Debug\Task1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 5 - 9 November 2020 (Trees)\DigiLT\Practical Template Files\Task1\Task1\obj\Debug\Task1.pdb
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 5 - 9 November 2020 (Trees)\DigiLT\Practical Template Files\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 5 - 9 November 2020 (Trees)\DigiLT\Practical Template Files\Task1\Task1\bin\Debug\Task1.exe
+C:\MyData\Courses\WRAV2\2020\WRAV202 2020\Contact Sessions\Unit 5 - 9 November 2020 (Trees)\DigiLT\Practical Template Files\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\khumbelo\Downloads\wrav2\w5\Unit 5 Practical Task Template and Submission Files\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\khumbelo\Downloads\wrav2\w5\Unit 5 Practical Task Template and Submission Files\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\khumbelo\Downloads\wrav2\w5\Unit 5 Practical Task Template and Submission Files\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\khumbelo\Downloads\wrav2\w5\Unit 5 Practical Task Template and Submission Files\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\khumbelo\Downloads\wrav2\w5\Unit 5 Practical Task Template and Submission Files\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\khumbelo\Downloads\wrav2\w5\Unit 5 Practical Task Template and Submission Files\Task1\Task1\obj\Debug\Task1.pdb
